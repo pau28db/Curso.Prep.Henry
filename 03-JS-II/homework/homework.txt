@@ -1,0 +1,13 @@
+for: Crea una instrucción que se repite hasta que se da su condición de parada, 
+se escribe dando una condición de inicio, condición de parada y algo que modifique la 
+condición de inicio.
+
+&&: Comparación AND: Se agrega otra condición a la función que también debe ser
+verdad, osino es falsa.
+
+||: Comparación OR: Agrega otra condición a la función, donde si cualquiera de las 2 se 
+cumple, la función es verdad.
+
+!: comparación NOT: Genera una contradicción en la condición, lo que sigue la regla de 
+matemáticas de negativos con positivos, si se aplica a algo verdadero, lo convierte en falso, 
+si se aplica a algo falso, lo convierte en verdadero.

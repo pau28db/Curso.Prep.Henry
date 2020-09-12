@@ -1,0 +1,2 @@
+Array: Variable que en vez de guardar 1 elemento, puede guardar varios
+de cualquier tipo, y se puede acceder a cualquiera de ellos al igual que una variable.

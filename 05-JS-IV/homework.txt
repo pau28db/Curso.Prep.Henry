@@ -1,0 +1,14 @@
+Objetos: Lista que guarda propiedades con su respectivo valor del objeto.
+
+Propiedades: Característica determinada del objeto al que se le puede asignar un valor,
+y se puede acceder a ella por su nombre.
+
+Métodos: Son las funciones que puede hacer este objeto.
+
+Bucle for in: Bucle que se caracteriza por correr en un objeto, dando como resultado propiedad + valor,
+se escribe for (var (propiedad) in (objeto) { }.
+
+Notación de puntos vs corchetes: El objetivo de ambos es llamar una propiedad específica 
+y su valor, la diferencia es que la notación de puntos sólo puede llamar la propiedad,
+mientras que la notación de corchetes, puede ser utilizada para dar muchas funciones 
+a la propiedad almacenada.
